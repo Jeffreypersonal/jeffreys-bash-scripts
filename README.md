@@ -1,2 +1,3 @@
-# jeffreys-bash-scripts
-Jeffrey's Bash scripts
+# Jeffrey's Bash scripts
+
+Description coming soon.
