@@ -1,3 +1,11 @@
-# Jeffrey's Bash scripts
+# JBS/JB-Scripts (Jeffrey's Bash Scripts)
 
-Description coming soon.
+## Notice
+
+These scripts are meant for Ubuntu Xenial (16.04 LTS) based systems.
+
+## Script information
+
+apachemanager.sh - Easy to use web server manager for Apache2 & MySQL.
+
+jbs-clt.sh - (JB-Scripts Command Line Tool) Contains useful  command line tools for server management.
