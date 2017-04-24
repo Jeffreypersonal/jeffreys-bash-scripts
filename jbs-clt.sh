@@ -1,6 +1,6 @@
 #!/bin/bash
 # JB-Scripts Command Line Tool
-JKITVERSION=1.0.0
+JKITVERSION=1.0.1
 JKITBD=2017.04.24
 
 jcltmanual() {
@@ -26,10 +26,10 @@ install | Install JBS-CLT to /usr/bin.
 uninstall | Uninstall JBS-CLT from /usr/bin.
 help | View this manual.
 
-Tools:
+General:
 sysupd | Perform a system update.
 
-Edition specific:
+Webserver:
 a2rl | Reload Apache2 server.
 a2rs | Restart Apache2 server.
 fel | Follow Apache2 error.log.
