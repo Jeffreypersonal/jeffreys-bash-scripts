@@ -1,6 +1,6 @@
 # JBS/JB-Scripts (Jeffrey's Bash Scripts)
 
-## Notice
+## Supported operating systems
 
 These scripts are meant for Ubuntu Xenial (16.04 LTS) based systems.
 
