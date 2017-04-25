@@ -1,7 +1,7 @@
 #!/bin/bash
 # Web server manager script
-VERSION=1.0.0
-BUILD=2017.04.24
+VERSION=1.0.1
+BUILD=2017.04.25
 
 # Preferences
 RELOADAW=true                           # Reload Apache2 service automatically after a certain change is done.
@@ -27,8 +27,11 @@ clear
 pager <<Chnglg
 Use the arrow keys to navigate and 'q' button to exit the changelog.
 
+[2017.04.25: Version 1.0.1]
+- Updated title at authentication welcome screen.
+
 [2017.04.24: Version 1.0.0]
-Initial release
+- Initial release
 Chnglg
 mainmenu
 }
@@ -468,7 +471,7 @@ done
 
 #Logic
 clear
-echo "Web server manager version $VERSION"
+echo "JBS web server manager version $VERSION"
 echo "================================"
 echo
 echo -e "Hello world!"
